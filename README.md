@@ -22,7 +22,7 @@ I started the challenge to learn about the cloud and how to use cloud for my mac
 
 I would like to get AWS Machine Learning Speciality Certification.
 
-- [@ka_i_ak](https://twitter.com/ka_i_ak)
+- [@ka_y_ak](https://twitter.com/ka_y_ak)
 
 ## Stepping out the door
 
